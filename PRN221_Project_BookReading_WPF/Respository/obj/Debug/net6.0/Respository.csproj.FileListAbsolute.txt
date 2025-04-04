@@ -1,0 +1,38 @@
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\bin\Debug\net6.0\appsettings.json
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\bin\Debug\net6.0\Respository.deps.json
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\bin\Debug\net6.0\Respository.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\bin\Debug\net6.0\Respository.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\bin\Debug\net6.0\BussinessObject.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\bin\Debug\net6.0\DAO.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\bin\Debug\net6.0\BussinessObject.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\bin\Debug\net6.0\DAO.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\Respository.csproj.AssemblyReference.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\Respository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\Respository.AssemblyInfoInputs.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\Respository.AssemblyInfo.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\Respository.csproj.CoreCompileInputs.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\Resposit.A0478000.Up2Date
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\Respository.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\refint\Respository.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\Respository.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\ref\Respository.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\Respository\obj\Debug\net6.0\Respository.sourcelink.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\bin\Debug\net6.0\appsettings.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\bin\Debug\net6.0\Respository.deps.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\bin\Debug\net6.0\Respository.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\bin\Debug\net6.0\Respository.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\bin\Debug\net6.0\BussinessObject.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\bin\Debug\net6.0\DAO.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\bin\Debug\net6.0\BussinessObject.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\bin\Debug\net6.0\DAO.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\Respository.csproj.AssemblyReference.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\Respository.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\Respository.AssemblyInfoInputs.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\Respository.AssemblyInfo.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\Respository.csproj.CoreCompileInputs.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\Respository.sourcelink.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\Resposit.A0478000.Up2Date
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\Respository.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\refint\Respository.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\Respository.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\Respository\obj\Debug\net6.0\ref\Respository.dll

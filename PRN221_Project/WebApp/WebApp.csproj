@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup><!--<Content Remove="Pages\Login.cshtml" />-->
+    <!--<Content Remove="Pages\Login\Logout.cshtml" />-->
+  
+    <!--<Content Remove="Pages\Chapter\AddChapter.cshtml" />-->
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessObject\BusinessObject.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Login.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Login.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Login\Logout.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\Login\Index.cshtml" />
+    <None Include="Pages\Login\Logout.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Login\Logout.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\css\vendor\datepicker\" />
+    <Folder Include="wwwroot\css\vendor\font-awesome-4.7\" />
+    <Folder Include="wwwroot\css\vendor\mdi-font\" />
+    <Folder Include="wwwroot\css\vendor\select2\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\bin\Debug\net6.0\appsettings.json
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\bin\Debug\net6.0\BussinessObject.deps.json
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\bin\Debug\net6.0\BussinessObject.runtimeconfig.json
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\bin\Debug\net6.0\BussinessObject.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\bin\Debug\net6.0\BussinessObject.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.AssemblyReference.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\obj\Debug\net6.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfoInputs.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfo.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\obj\Debug\net6.0\BussinessObject.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\obj\Debug\net6.0\refint\BussinessObject.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\obj\Debug\net6.0\BussinessObject.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\obj\Debug\net6.0\BussinessObject.genruntimeconfig.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\BussinessObject\obj\Debug\net6.0\ref\BussinessObject.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\bin\Debug\net6.0\appsettings.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\bin\Debug\net6.0\BussinessObject.deps.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\bin\Debug\net6.0\BussinessObject.runtimeconfig.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\bin\Debug\net6.0\BussinessObject.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\bin\Debug\net6.0\BussinessObject.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.AssemblyReference.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfoInputs.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfo.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.CoreCompileInputs.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\BussinessObject.sourcelink.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\BussinessObject.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\refint\BussinessObject.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\BussinessObject.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\BussinessObject.genruntimeconfig.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\BussinessObject\obj\Debug\net6.0\ref\BussinessObject.dll

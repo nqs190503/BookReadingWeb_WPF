@@ -1,0 +1,34 @@
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\bin\Debug\net6.0\appsettings.json
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\bin\Debug\net6.0\DAO.deps.json
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\bin\Debug\net6.0\DAO.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\bin\Debug\net6.0\DAO.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\bin\Debug\net6.0\BussinessObject.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\bin\Debug\net6.0\BussinessObject.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\DAO.csproj.Up2Date
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\DAO.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\refint\DAO.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\DAO.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\ref\DAO.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\DAO\obj\Debug\net6.0\DAO.sourcelink.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\bin\Debug\net6.0\appsettings.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\bin\Debug\net6.0\DAO.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\bin\Debug\net6.0\DAO.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\bin\Debug\net6.0\BussinessObject.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\bin\Debug\net6.0\BussinessObject.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\DAO.sourcelink.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\DAO.csproj.Up2Date
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\DAO.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\DAO.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\DAO\obj\Debug\net6.0\ref\DAO.dll

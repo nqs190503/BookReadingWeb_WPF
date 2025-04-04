@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PRN221_Project_SE1749_24hssogv_wpftmp
+build_property.ProjectDir = D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,152 @@
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\PRN221_Project_SE1749.exe
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\PRN221_Project_SE1749.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\BussinessObject.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\DAO.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Respository.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.csproj.AssemblyReference.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\FeedBackManager.baml
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\AccountManager.g.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\AddUpdateBook.g.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\BookManager.g.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\FeedBackManager.g.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\App.g.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749_MarkupCompile.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749_MarkupCompile.lref
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\appsettings.json
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\PRN221_Project_SE1749.deps.json
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\PRN221_Project_SE1749.runtimeconfig.json
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\PRN221_Project_SE1749.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Respository.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\BussinessObject.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\bin\Debug\net6.0-windows\DAO.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\AccountManager.baml
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\AddUpdateBook.baml
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\BookManager.baml
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.g.resources
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.AssemblyInfoInputs.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.AssemblyInfo.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.csproj.CoreCompileInputs.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_P.A92F55F3.Up2Date
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\refint\PRN221_Project_SE1749.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.pdb
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.genruntimeconfig.cache
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\ref\PRN221_Project_SE1749.dll
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\ResponseFeedBack.baml
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\ResponseFeedBack.g.cs
+D:\Desktop\Mon Hoc\Ky7\PRN221\Project\PRN221_Project_SE1749\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.sourcelink.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\PRN221_Project_SE1749.exe
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\appsettings.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\PRN221_Project_SE1749.deps.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\PRN221_Project_SE1749.runtimeconfig.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\PRN221_Project_SE1749.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\PRN221_Project_SE1749.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\BussinessObject.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\DAO.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Respository.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\Respository.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\BussinessObject.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\bin\Debug\net6.0-windows\DAO.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.csproj.AssemblyReference.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\FeedBackManager.baml
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\ResponseFeedBack.baml
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\AccountManager.g.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\AddUpdateBook.g.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\BookManager.g.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\FeedBackManager.g.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\ResponseFeedBack.g.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\App.g.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749_MarkupCompile.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749_MarkupCompile.lref
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\AccountManager.baml
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\AddUpdateBook.baml
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\BookManager.baml
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\MainWindow.baml
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.g.resources
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.AssemblyInfoInputs.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.AssemblyInfo.cs
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.csproj.CoreCompileInputs.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.sourcelink.json
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_P.A92F55F3.Up2Date
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\refint\PRN221_Project_SE1749.dll
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.pdb
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\PRN221_Project_SE1749.genruntimeconfig.cache
+C:\FPT\term\Fall2024\PRN221\PRN221_Project_BookReading_WPF\PRN221_Project_SE1749\obj\Debug\net6.0-windows\ref\PRN221_Project_SE1749.dll
